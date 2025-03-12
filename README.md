@@ -45,7 +45,7 @@ Optuna was used to tune hyperparameters for each model. Test each model and each
 -  Feature Importance analysis: Top 3 most important features are Age, Mileage and HP.  <br />
 
 ## 🏆 Results
-Here is the results [here](data/test_results12-03-2025.csv).
+The results are [here](data/test_results12-03-2025.csv).
 
 1️⃣ XGBoost performed the best, achieving the lowest errors (MAE, MSE) and highest R² score.  <br />
 2️⃣ Random Forest is strong model and also performed very well.  <br />
