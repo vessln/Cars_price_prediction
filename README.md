@@ -50,7 +50,7 @@ The results are [here](data/test_results12-03-2025.csv).
 1️⃣ XGBoost performed the best, achieving the lowest errors (MAE, MSE) and highest R² score.  <br />
 2️⃣ Random Forest is strong model and also performed very well.  <br />
 3️⃣ Decision Tree struggles with generalization. <br />
-4️⃣ Linear Regression struggled due to non-linearity in data.  <br />
+4️⃣ Linear Regression cannot capture the price variation because if non-linearity in data.  <br />
 
 
 
